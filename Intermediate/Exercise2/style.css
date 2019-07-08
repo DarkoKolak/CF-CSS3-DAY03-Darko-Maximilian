@@ -1,0 +1,62 @@
+#container{
+		width: 350px;
+	margin: auto;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+header>h1{
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: -15px;
+	margin-top: -5px;
+}
+header>#first{
+	text-align: left;
+	margin-bottom: -18px;
+}
+header>#second{
+	text-align: left;
+	margin-bottom: -2px;
+}
+.left{
+	width: 60%;
+	text-align: left;
+}
+.middle{
+	width: 20%;
+	text-align: right;
+}
+.right{
+	width: 20%;
+	text-align: right;
+}
+.exeption{
+	height: 8px;
+	background-color: black;
+}
+   td{
+	border-bottom: solid black 2px;
+}
+.left1{
+	border-bottom: solid black 5px;
+	text-align: left;
+}
+.middle1{
+	border-bottom: solid black 5px;
+	text-align: right;
+}
+.right1{
+	border-bottom: solid black 5px;
+	text-align: right;
+}
+table{
+	border: solid black 1px;
+}
+header{
+	border: solid black 1px;
+}
