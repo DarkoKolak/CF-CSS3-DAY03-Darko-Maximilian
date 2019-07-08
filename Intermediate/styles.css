@@ -1,0 +1,19 @@
+#wiki{
+	font-size: 25px;
+	color: white;
+	text-shadow: 1px 1px white;
+	text-align: center;
+}
+#rimac{
+	padding-left: 25%;
+	transition: width 2s, height 2s, transform 3s;
+			
+}
+body{
+	background-image: url(logo1.jpg);
+}
+#rimac:hover{
+
+	transform:translateX(-2000px);
+
+}
