@@ -11,19 +11,21 @@
 	height: 200px;
 	text-align: center;
 	background-color: blue;
-	transition: width 3s, height 3s, transform 3s;
+	transition: width 2s, height 4s, transform 4s;
 }
 #Stackoverflow{
 	width: 200px;
 	height: 200px;
 	text-align: center;
 	background-color: red;
+	transition: width 4s, height 4s, transform 5s;
 }
 #codefactory{
 	width: 200px;
 	height: 200px;
 	text-align: center;
 	background-color: purple;
+	transition: width 3s, height 5s, transform 6s;
 }
 .Links {
 	flex-flow: row;
@@ -37,24 +39,28 @@
     height: 400px;
     -webkit-transform: rotate(180deg); /* Safari */
     transform: rotate(360deg);
+    font-size: 30px;
 }
 #CSS:hover{
 	width: 400px;
     height: 400px;
     -webkit-transform: rotate(369deg); /* Safari */
     transform: rotate(360deg);
+    font-size: 30px;
 }
 #Stackoverflow:hover{
 	width: 400px;
 	height: 400px;
 	-webkit-transform: rotate(369deg); /* Safari */
     transform: rotate(360deg);
+    font-size: 30px;
 }
 #codefactory:hover{
 	width: 400px;
 	height: 400px;
 	-webkit-transform: rotate(369deg); /* Safari */
     transform: rotate(360deg);
+    font-size: 30px;
 }
 a {
 	color: white;
