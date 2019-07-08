@@ -1,0 +1,14 @@
+.Links {
+	flex-flow: row;
+	justify-content: space-between;
+}
+#HTML {
+	width: 200px;
+	height: 200px;
+	background-color: green;
+}
+#CSS {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+}
